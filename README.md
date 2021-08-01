@@ -6,7 +6,7 @@ By default Word surrounds citations by the round brackets, fortunately you can c
 This is usefull if you are working on research papers and want to include references by using citation type links.
 
 By default the style files are located in:
-C:\Users\{user_name}\AppData\Roaming\Microsoft\Bibliography\Style
+C:\Users\\{user_name}\AppData\Roaming\Microsoft\Bibliography\Style
 
 1. open that folder and file: ISO690Nmerical.XSL in notepad
 2. find the following part:
